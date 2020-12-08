@@ -1,0 +1,19 @@
+th{
+  color:#2296c7;
+    font-size: 50px;
+    font-family:Lucida Bright;
+    text-align: center;
+}
+  table{
+         font-family : Comic Sans MS;
+         border-collapse: collapse; border-width   : 1px;
+         border-style   : solid;
+         border-color: aqua;
+      
+
+}
+ th {
+    font-weight     : 800;
+     background-color: aqua;
+}
+   
